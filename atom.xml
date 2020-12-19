@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mojitoo.xyz</id>
-    <title>Gridea</title>
-    <updated>2020-12-19T07:44:41.383Z</updated>
+    <title>乌托邦</title>
+    <updated>2020-12-19T07:46:11.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mojitoo.xyz"/>
     <link rel="self" href="https://mojitoo.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://mojitoo.xyz/images/avatar.png</logo>
     <icon>https://mojitoo.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 乌托邦</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mojitoo.xyz/post/hello-gridea/</id>
