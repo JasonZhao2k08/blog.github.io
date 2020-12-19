@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mojitoo.xyz</id>
     <title>乌托邦</title>
-    <updated>2020-12-19T12:02:48.425Z</updated>
+    <updated>2020-12-19T12:05:34.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mojitoo.xyz"/>
     <link rel="self" href="https://mojitoo.xyz/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://mojitoo.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 乌托邦</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Gridea--本博客指定写作客户端。]]></title>
         <id>https://mojitoo.xyz/post/hello-gridea/</id>
         <link href="https://mojitoo.xyz/post/hello-gridea/">
         </link>
