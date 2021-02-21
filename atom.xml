@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mojitoo.xyz</id>
     <title>乌托邦</title>
-    <updated>2020-12-26T10:23:39.948Z</updated>
+    <updated>2021-02-21T07:50:26.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mojitoo.xyz"/>
     <link rel="self" href="https://mojitoo.xyz/atom.xml"/>
     <subtitle>古今多少事，都付笑谈中。</subtitle>
     <logo>https://mojitoo.xyz/images/avatar.png</logo>
     <icon>https://mojitoo.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, 乌托邦</rights>
+    <rights>All rights reserved 2021, 乌托邦</rights>
     <entry>
         <title type="html"><![CDATA[2020年终总结]]></title>
         <id>https://mojitoo.xyz/post/2020-nian-zhong-zong-jie/</id>
